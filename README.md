@@ -28,7 +28,7 @@ The calculated results are then displayed in a table, showing the progress of th
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/investment-calculator.git
+   git clone https://github.com/r4jibooqis/Investment-Calculator-with-React.git
    cd investment-calculator
    ```
 
