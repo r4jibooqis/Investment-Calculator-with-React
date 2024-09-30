@@ -2,6 +2,8 @@
 
 This project is a simple **Investment Calculator** built using **React**. The app allows users to input their investment details, such as initial investment, annual contributions, expected return rate, and investment duration. The app then calculates the results of the investment over time and displays the data in a table, showing the interest earned, the total value of the investment at the end of each year, and the total invested capital.
 
+![Investment Calculator Screenshot](./src/assets/investment-calculator.png)
+
 ## Features
 
 - **Initial Investment Input**: Users can specify how much they want to invest initially.
